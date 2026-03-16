@@ -1,0 +1,14 @@
+# datasets
+*.csv
+*.zip
+*.gz
+
+# python
+__pycache__/
+*.pyc
+
+# system files
+.DS_Store
+
+# notebook checkpoints
+.ipynb_checkpoints/
